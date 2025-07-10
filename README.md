@@ -1,20 +1,49 @@
 <h1 align="center">Hi 👋, I'm Taneshka Mehta</h1>
-<h3 align="center">A girl striving to grasp everything!</h3>
+<h3 align="center">A girl striving to grasp everything – from code to coffee ☕</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taneshkaa&label=Profile%20views&color=0e75b6&style=flat" alt="taneshkaa" /> </p>
+---
 
-- 📫 How to reach me **taneshka.mehta@gmail.com**
+🌟 Passionate about **Automation, APIs and UI, Web Development**, and making machines work while I binge-watch series!  
+🔧 I love building smart bots and stylish UIs – sometimes both in one go.  
+🎯 Currently working as aAutomation Engineer, where I automate all the boring and redundant stuff. <br>
+👩‍💻 A Bot Enthusiast
 
-- ⚡ Fun fact **I love watching series...**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/thearieshgirl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thearieshgirl" height="30" width="40" /></a>
-</p>
+## 💻 Technologies I Work With
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 👩‍💻 Automation:
+- Python (RPA, Scripting, Web Scraping, Document Manipulations)
+- Playwright (UI + API Automation)
+- Tesseract / OCR / EasyOCR
+- Pandas, Regex, PDF / Excel Manipulation
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taneshkaa&show_icons=true&locale=en&layout=compact" alt="taneshkaa" /></p>
+### 🌐 Web Development:
+- HTML5 / CSS3 / Bootstrap / Tailwind
+- JavaScript (Vanilla / DOM)
+- React.js, Vue.js
+- PHP & MySQL
+- MongoDB
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taneshkaa&show_icons=true&locale=en" alt="taneshkaa" /></p>
+---
+
+## 🔗 Connect with Me
+
+- 📫 Email: **taneshka.mehta@gmail.com**
+- 🌐 GitHub: [**@taneshkaa**](https://github.com/taneshkaa)
+
+---
+
+## 🎉 Fun Fact
+
+> I automate while I caffeinate ☕  
+> And binge-watch while scripts run 👀
+
+---
+
+⭐ *"Keep building. Keep breaking. Keep learning."* <br>
+*Onwards and Upwards 🚀✨*
+<br>
+<br>
+👩‍💻 _**Taneshka**_
+
