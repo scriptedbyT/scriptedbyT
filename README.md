@@ -30,7 +30,7 @@
 ## 🔗 Connect with Me
 
 - 📫 Email: **taneshka.mehta@gmail.com**
-- 🌐 GitHub: [**@taneshkaa**](https://github.com/taneshkaa)
+- 🌐 GitHub: [**@scriptedbyT**](https://github.com/scriptedbyT)
 
 ---
 
