@@ -23,7 +23,6 @@
 - JavaScript (Vanilla / DOM)
 - React.js, Vue.js
 - PHP & MySQL
-- MongoDB
 
 ---
 
