@@ -18,10 +18,8 @@
 - Tesseract / OCR / EasyOCR
 - Pandas, Regex, PDF / Excel Manipulation
 
-### 🌐 Web Development:
+### 🌐 Web Designing:
 - HTML5 / CSS3 / Bootstrap / Tailwind
-- JavaScript (Vanilla / DOM)
-- React.js, Vue.js
 - PHP & MySQL
 
 ---
@@ -30,6 +28,7 @@
 
 - 📫 Email: **taneshka.mehta@gmail.com**
 - 🌐 GitHub: [**@scriptedbyT**](https://github.com/scriptedbyT)
+- 👩‍💻 Portfolio: https://scriptedbyt.github.io/ 
 
 ---
 
