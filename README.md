@@ -3,7 +3,7 @@
 
 ---
 
-🌟 Passionate about **Automation, APIs and UI, Web Development**, and making machines work while I binge-watch series!  
+🌟 Passionate about **Automation, APIs and UI, Web Designing**, and making machines work while I binge-watch series!  
 🔧 I love building smart bots and stylish UIs – sometimes both in one go.  
 🎯 Currently working as aAutomation Engineer, where I automate all the boring and redundant stuff. <br>
 👩‍💻 A Bot Enthusiast
